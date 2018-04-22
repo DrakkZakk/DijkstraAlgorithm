@@ -5,9 +5,7 @@ import java.util.List;
 
 /**
  *
- * @author Drakkar convertir matriz original en matriz para grafos para
- * resolverlo con dijkstra Si la matriz es de 4*4 = 16, la matriz grafo sería de
- * 16*16
+ * @author Drakkar
  */
 public class Dijkstra {
 
